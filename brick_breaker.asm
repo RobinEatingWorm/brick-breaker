@@ -15,7 +15,7 @@ DISP_ADDR:
     .word 0x10008000
 # The address of the keyboard.
 KEYB_ADDR:
-    .word 0xffff0000
+    .word 0xFFFF0000
 
 ### Ball Data
 # The width and height of the ball.
