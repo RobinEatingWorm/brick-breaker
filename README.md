@@ -1,6 +1,6 @@
 # Brick Breaker
 
-This is a brick-breaker game created using MIPS Assembly. The game is run on [MARS](https://courses.missouristate.edu/KenVollmar/mars/index.htm), an Assembly simulator created by Pete Sanderson and Kenneth Vollmar of Missouri State University.
+This is a brick-breaking game created using MIPS Assembly. The game is run on [MARS](https://courses.missouristate.edu/KenVollmar/mars/index.htm), an Assembly simulator created by Pete Sanderson and Kenneth Vollmar of Missouri State University.
 
 ## Setup Instructions
 
