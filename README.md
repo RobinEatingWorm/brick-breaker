@@ -62,7 +62,7 @@ To play again after the game has ended, press the ⏪ button (boxed in magenta b
 
 ![Resetting the program](images/reset_program.png)
 
-Next, click the 'Reset' button on the bitmap display. It should become fully black. It is not required to also reset the keyboard simulator.
+Next, click the 'Reset' button on the bitmap display. It should become fully black. Resetting the keyboard simulator is not required.
 
 ![Resetting the display](images/reset_bitmap_display.png)
 
