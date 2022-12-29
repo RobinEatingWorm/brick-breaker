@@ -82,7 +82,7 @@ This game responds to the following keys:
 
 * `a`: Move the paddle one unit to the left.
 * `d`: Move the paddle one unit to the right.
-* `l`: The ball stays on the paddle every time a new game begins or a life is lost. Pressing `l` launches the ball off the paddle so that it can begin breaking bricks.
+* `l`: The ball automatically attaches itself to the paddle every time a new game starts or a life is lost. Pressing `l` launches the ball off the paddle so that it can begin breaking bricks.
 * `p`: Pause the game. While paused, the game will not respond to the keys `a`, `d`, and `l`.
 * `q`: Quit the game. This can be done even when the game is paused.
 
@@ -95,7 +95,7 @@ This game responds to the following keys:
 
 ### Tips
 
-* The ball will always move diagonally.
+* The ball always moves diagonally.
 * The ball moves to the left when it hits the left side of the paddle and to the right when it hits the right side of the paddle.
 * Hitting more red bricks after a red brick has already been hit does not change the speed of the ball as long as no lives are lost.
 * MARS may freeze if keys are pressed too fast. If this happens, restart MARS.
